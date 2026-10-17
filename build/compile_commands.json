@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/c/Users/rchoe/OneDrive/Documents/Coding/ray/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ray.dir/main.cpp.o -c /mnt/c/Users/rchoe/OneDrive/Documents/Coding/ray/main.cpp",
+  "file": "/mnt/c/Users/rchoe/OneDrive/Documents/Coding/ray/main.cpp",
+  "output": "CMakeFiles/ray.dir/main.cpp.o"
+}
+]
